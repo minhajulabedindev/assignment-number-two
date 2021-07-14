@@ -111,14 +111,19 @@ main{
 
 .footer{
     text-align: center;
-    font-size: 2em;
+    
     margin-top: 50px;
 }
 .icon-color{
-    color: rgb(148, 82, 63);
+    font-size: 2em;
+    color: rgb(7, 6, 6);
 }
 .copy-right{
-    font-size: 15px;
+    font-size: 20px;
+}
+
+.footer, img{
+    height: ;
 }
 /* --------------------------
       video part
@@ -160,5 +165,6 @@ main{
 }
 .write{
     text-align: center;
-    margin-left: 110px;
+    margin-left: 180px;
+    font-size: 1.2em;
 }
